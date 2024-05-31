@@ -100,4 +100,5 @@ Further analysis can enrich our decision accuracy on costs of investment and mig
 - Look at higher risk airports/locations so these places are avoid alongside with accidents;
 - Include weather analysis as some models might have underperfomed in conditions like heavy rain or snow.
 
-
+## Dashboard
+An interactive dashboard of this analysis is also available at [my dashboard link](https://public.tableau.com/app/profile/cayke.felipe.dos.anjos/viz/aviation_risk_assessment_dashboard/AircraftCompanyRiskAnalysis?publish=yes)
